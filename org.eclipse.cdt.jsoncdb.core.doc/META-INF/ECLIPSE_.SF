@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: Ut9ioA+4ZQTg3+jP5hZuw5ZJZLMLAHqU2q6zKAinVNs=
+SHA-256-Digest-Manifest-Main-Attributes: c89ahRAMxchnw+ICYyGXOGRj7JD3Vku
+ 1tMtDW69TYo0=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: plugin.xml
+SHA-256-Digest: d+R5FHme33CPwb+ZUaDp/L9Z4k8v7BZISDd8cyx/ibk=
+
+Name: META-INF/maven/org.eclipse.cdt/org.eclipse.cdt.jsoncdb.core.doc/po
+ m.properties
+SHA-256-Digest: T9Yk6lxdke17cBJF9fbpjtQufHm0Px0c56Ms/cPdC0U=
+
+Name: doc/html/supported-compilers.xhtml
+SHA-256-Digest: Td1CJgbDmoiEXp3HyLx5Co8k+gzNBqJ0+Mov6ZLxWhg=
+
+Name: doc/toc.xml
+SHA-256-Digest: yAFS84uBiSRh0WsYonqos4+v528XEbZS2gE+HTmFYlA=
+
+Name: plugin.properties
+SHA-256-Digest: BrgZ0FubbWWnPlta8IW5J3Bg3WcbMGV9PpLlxIDIaRY=
+
+Name: META-INF/maven/org.eclipse.cdt/org.eclipse.cdt.jsoncdb.core.doc/po
+ m.xml
+SHA-256-Digest: PeKuYOCJF6lcEBA/LIZ5gt1wgBtvFXnZsUNI84dMUg4=
+
+Name: doc/topics_Tasks.xml
+SHA-256-Digest: J+mXu04lTKMTqHNExqtOs4m+dSVKf73nTTdhUfmcBA8=
+
+Name: doc/html/notices.html
+SHA-256-Digest: IE6upmqoADKlHQdIMxehzuUQwNH5+VuJoHlaPg8wSN0=
+
+Name: doc/html/builtins-detection.xhtml
+SHA-256-Digest: eS34TrbmTrqBCv+e0JL2gQHX4C2FbDJi4UJ8WjpW7nY=
+
